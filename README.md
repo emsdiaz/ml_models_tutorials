@@ -1,2 +1,2 @@
 # ml_models_tutorials
-ML models/techniques tutorials
+ML models tutorials for relevant techniques in Data Science
